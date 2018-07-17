@@ -8,7 +8,6 @@ Hi, this is me, rebornplusplus. I am opening this site to post my recently solve
 
 * * *
 rebornplusplus
-
 July 17 2018 2313
 
 {% include youtubePlayer.html id="EYqSe6DTMHE" %}
