@@ -47,6 +47,13 @@
               .tar.gz file
             </a>
           {% endif %}
+          
+          {% if site.show_sidebar_table %}
+            <a href="./codir/lo-1415-save-the-trees" class="button">
+              <small>Save</small>
+              the Trees!
+            </a>
+          {% endif %}
 
           {% if site.github.is_project_page %}
             <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
