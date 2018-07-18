@@ -1,5 +1,6 @@
 title: Au Revoir
 description: তোমার জন্য নয় আমার কোন কিছুই!
 show_downloads: false
+show_sidebar_table: true
 google_analytics:
 theme: jekyll-theme-architect
