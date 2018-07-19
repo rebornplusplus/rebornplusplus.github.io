@@ -76,7 +76,7 @@ int main() {
 }
 ```
 
-Thanks to [this blog](http://www.cnblogs.com/chen9510/p/7258453.html) for the code. I had to simulate and understand. I couldn't quite catch what they were trying to say in chinese. :/
+Thanks to [this blog](http://www.cnblogs.com/chen9510/p/7258453.html) for the code. Although I had to simulate and understand! I couldn't quite catch what they were trying to say in chinese. :/
 
 ***
 
