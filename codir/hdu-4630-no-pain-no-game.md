@@ -3,7 +3,7 @@ layout: default
 ---
 
 # HDU 4630 - No Pain No Game
-_Jul 19 2018_
+_Jul 19 2018 1720_
 
 Given a permutation of numbers from `1` to `N` and some queries. For each query `l-r` you have to calculate the maximum gcd for any two numbers `a[i]`, `a[j]` where `l<=i<j<=r`.
 
