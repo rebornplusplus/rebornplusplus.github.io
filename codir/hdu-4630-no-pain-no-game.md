@@ -5,7 +5,7 @@ layout: default
 # HDU 4630 - No Pain No Game
 _Jul 19 2018 1720_
 
-Given a permutation of numbers from `1` to `N` and some queries. For each query `l-r` you have to calculate the maximum gcd for any two numbers `a[i]`, `a[j]` where `l<=i<j<=r`.
+Given a permutation of numbers from `1` to `N` and some queries. For each query `l-r` you have to calculate the maximum gcd for any two numbers `a[i]`, `a[j]` where `l<=i<j<=r`. [Problem Statement](http://acm.hdu.edu.cn/showproblem.php?pid=4630).
 
 ### Solution
 First sort the queries on the ascending order of `r`. Also, precalculate the divisors of every number. Keep an array `last` where `last[p]` indicates the last position of the number that `p` was a divisor of, i.e. `p | a[last[p]]`. <br/>
