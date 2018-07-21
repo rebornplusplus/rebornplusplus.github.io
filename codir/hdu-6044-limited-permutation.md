@@ -143,4 +143,8 @@ int main() {
 	return 0;
 }
 ```
-( Sorry about the function name. :3 I had to debug for 2 fukin hours and do you want to know what the bug was? A fucking `#` before the case number. I didn't type it when I submitted. ) 
+Sorry about the function name. :3 I had to debug for 2 fukin hours and do you want to know what the bug was? A fucking `#` before the case number. I didn't print it each time I submitted.
+
+***
+
+{% include disqus.html %}
