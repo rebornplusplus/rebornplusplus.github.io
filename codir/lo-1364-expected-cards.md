@@ -108,3 +108,9 @@ int main() {
 	return 0;
 }
 ```
+
+This was one hell of a painful implementation. `_-` I messed up while coding this thing that resulted in bugs. :( 
+
+***
+
+{% include disqus.html %}
