@@ -12,3 +12,4 @@ Here are some problems that I solved and wrote explanations. :3
 * [HDU 4625 - JZPTREE](./hdu-4625-jzptree)
 * [LightOJ 1364 - Expected Cards](./lo-1364-expected-cards)
 * [LightOJ 1406 - Assassin`s Creed](./lo-1406-assasins-creed)
+* [LightOJ 1210 - Efficient Traffic System](./lo-1210-efficient-traffic-system)
