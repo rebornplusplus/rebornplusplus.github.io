@@ -8,10 +8,8 @@ _July 25 2018 0437_
 You are given a graph of unidirectional edges. You have to calculate the minimum number of edges required to add to the graph so that any of the nodes can be reached from any other. [Problem Statement](http://lightoj.com/volume_showproblem.php?problem=1210)
 
 ### Solution
-Okay, let's start reducing this problem. There is a observation that if there's already a strongly connected component(scc) in the graph, then you don't need to add an edge between two nodes from that scc. So we can just ignore all the sccs. So convert the sccs to nodes. The graph will be now DAG.
-
-Now we are faced with this problem: Given a DAG, the minimum number of edges to make a cycle consisting of every node on that DAG. Here's the clever part. To make a cycle, there should be at least one edge coming out from every node and at least one edge going in that node. So, count the number of nodes that have indegree = 0. Also the nodes with outdegree = 0. Answer is the maximum of these two counts.
-
+Okay, let's start reducing this problem. There is a observation that if there's already a strongly connected component(scc) in the graph, then you don't need to add an edge between two nodes from that scc. So we can just ignore all the sccs. So convert the sccs to nodes. The graph will be now a DAG. <br/>
+Now we are faced with this problem: Given a DAG, the minimum number of edges to make a cycle consisting of every node on that DAG. Here's the clever part. To make a cycle, there should be at least one edge coming out from every node and at least one edge going in that node. So, count the number of nodes that have indegree = 0. Also the nodes with outdegree = 0. Answer is the maximum of these two counts. <br/>
 There is a corner when number of nodes in the DAG is 1.
 
 ### Code
@@ -123,3 +121,7 @@ int main() {
 }
 ```
 Happy Birthday, Timu :)
+
+***
+
+{% include disqus.html %}
