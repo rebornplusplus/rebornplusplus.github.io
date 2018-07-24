@@ -17,21 +17,6 @@ There is a corner when number of nodes in the DAG is 1.
 #include <bits/stdc++.h>
 using namespace std;
 
-typedef long long ll;
-typedef long double ld;
-typedef pair<int, int> pii;
-typedef pair<long long, long long> pll;
-#define ff first
-#define ss second
-#define mp make_pair
-#define pb push_back
-#define ub upper_bound
-#define lb lower_bound
-#define all(x) (x).begin(), (x).end()
-#define dbg(x) cout << " -- dbg: " << (x) << "\n"
-#define FastIO ios_base::sync_with_stdio(false); cin.tie(0); cout.tie(0);
-const long long INF = 2000000000LL;
-
 /*////////////////////
 adj[] is the main graph
 trans[] strores tranpose graph
