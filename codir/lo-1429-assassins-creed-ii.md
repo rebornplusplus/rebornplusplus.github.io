@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# LightOJ 1429 - Assasin's Creed (II)
+# LightOJ 1429 - Assassin's Creed (II)
 _Jul 25 2018 0657_
 
 ![Statement Screenshot](./lo-1429-statement.png)<br/>
-I liked the problem so much that I couldn't help but take an screenshot! :) [Problem Statement](http://lightoj.com/volume_showproblem.php?problem=1429)
+I liked the problem so much that I couldn't help but take a screenshot! :) [Problem Statement](http://lightoj.com/volume_showproblem.php?problem=1429)
 
 ### Solution
 
@@ -170,4 +170,8 @@ int main() {
 }
 ```
 
-I'll be honest. This problem took me a night, really. I re-coded SCC. Solved some of the straight forward problems to see if my code works perfectly. Then updated my templates of that. Then again, I learnt about Kuhn's algorithm of Bipartite Matching. Coded that, solved some problems then updated the template. After all that havoc, I coded this one!
+I'll be honest. This problem took me a day. Really. I re-coded SCC. Solved some of the straight forward problems to see if my code works perfectly. Then updated my templates of that. Then again, I learnt about Kuhn's algorithm of Bipartite Matching. Coded that, solved some problems then updated the template. After all that havoc, I coded this one!
+
+***
+
+{% include disqus.html %}
