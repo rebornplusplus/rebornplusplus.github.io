@@ -90,3 +90,7 @@ Number of Stones - Grundy value
 ```
 
 ps. I think that the even number of stones are useless. I submitted a code with grundy values of even number of stones = 0 and it passed. Dunno why tho. Any explanation would be appreciated. :D
+
+***
+
+{% include disqus.html %}
