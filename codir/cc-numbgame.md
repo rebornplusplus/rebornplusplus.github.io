@@ -54,10 +54,10 @@ void preCal() {
         int d = s[i]-'0';
         pre[i] = (d*p10[j] + pre[i+1]) % m;
     }
-	memset(mcnt, 0, sizeof mcnt);
+    memset(mcnt, 0, sizeof mcnt);
     for(int i=0, carry=0, j=n-1; i<n; ++i, --j) {
         int temp = (carry * p10[j] + pre[i+1]) % m;
-		mcnt[temp] += 1;
+        mcnt[temp] += 1;
         int d = s[i]-'0';
         carry = (carry * 10 + d) % m;
         // cout << mval[i] << " <--- " << i << "\n";
@@ -94,7 +94,7 @@ int main() {
         int res = 0;
         for(int i=0; i<m; ++i) {
             if(vis[i]) res += mcnt[i];
-		}
+        }
         printf("%d\n", res);
     }
 
