@@ -18,3 +18,4 @@ Here are some problems that I solved and wrote explanations. :3
 * [LightOJ 1229 - Treblecross](./lo-1229-treblecross)
 * [LightOJ 1401 - No More Tic-tac-toe](./lo-1401-no-more-tic-tac-toe)
 * [CodeChef - Number Game](./cc-numbgame)
+* [CodeChef - Spanning Tree](./cc-spantree)
