@@ -16,7 +16,7 @@ You have to count the number of ways you can put scarecrows on the given grid. [
 
 ### Solution
 
-Um, you can access the editorials [here](https://github.com/jonathanirvings/icpc-jakarta-2017). Look from `scarecrow`, problem L. I am giving a snap of those texts and elaborate on the inclusion-exclusion part.
+Um, you can access the editorials [here](https://github.com/jonathanirvings/icpc-jakarta-2017). This problem appeared in ACM ICPC Jakarta 2017. Look for `scarecrow`, problem L. I am giving a snap of those texts and elaborate on the inclusion-exclusion part.
 ![Editorial](./sacred-scarecrows-editorial.png)
 
 Now, onto the inclusion-exclusion part, here's where I lost the track, for each row consider a property `P` which is true when the row is empty of scarecrows i.e. there's no scarecrow on that row. So the answer should be the number of elements in the set (P1' P2' ... Pr') where r is the number of rows. Consider only three rows and let's name the property of not having any scarecrow in the first row `A`, `B` for second and `C` for third.<br/>
