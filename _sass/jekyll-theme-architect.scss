@@ -128,6 +128,7 @@ code, pre {
   font-family: 'Ubuntu Mono', 'Consolas', Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 14px;
   color: #222;
+  text-shadow: none;
 }
 
 code {
@@ -135,7 +136,7 @@ code {
   // background-color: #f2f8fc;
   // border: solid 1px #dbe7f3;
   border: none;
-  text-shadow: 2px 2px 5px red;
+  text-shadow: 2px 2px 1px red;
 }
 
 pre {
