@@ -22,4 +22,4 @@ Here are some problems that I solved and wrote explanations. :3
 * [LightOJ 1344 - Aladdin and the Game of Bracelets](./lo-1344-aladdin-and-the-game-of-bracelets)
 * [UVaLive 7721 - 2-ME Set](./uvalive-7721-2-me-set)
 * [UVaLive 8144 - Sacred Scarecrows](./uvalive-8144-sacred-scarecrows)
-* [# UVaLive 7305 - Jumping Joey](./uvalive-7305-jumping-joey)
+* [UVaLive 7305 - Jumping Joey](./uvalive-7305-jumping-joey)
