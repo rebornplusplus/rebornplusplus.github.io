@@ -21,7 +21,6 @@ See the code for a better standing:
 using namespace std;
 
 typedef long long ll;
-#define FastIO ios_base::sync_with_stdio(false); cin.tie(0); cout.tie(0);
 const long long INF = 2000000000000000000LL;
 
 const int N = 1000+7;
@@ -29,8 +28,6 @@ int p[N], r[N];
 ll dp[N][N];	// dp[i][j] is the minimum amount that i needs to be moved with j times wet
 
 int main() {
-	FastIO;
-
 	int t, tc=0;
 	cin >> t;
 
