@@ -66,7 +66,7 @@ int main() {
 }
 ```
 
-Whether this solution is ok, there's another trick we can still do. Note that the number of people is at most 100. So the number of people in any group is at most 50. We use this number. What we do is, we keep a dp table for each weight. `dp[w]` will keep upto 50 bits where `i`'th set bit means that we can make weight `w` using `i` people. For storing upto 50 bits, we can use `long long` data type.
+Where this solution is ok, there's another trick we can still do. Note that the number of people is at most 100. So the number of people in any group is at most 50. We use this number. What we do is, we keep a dp table for each weight. `dp[w]` will keep upto 50 bits where `i`'th set bit means that we can make weight `w` using `i` people. For storing upto 50 bits, we can use `long long` data type.
 
 Code:
 
