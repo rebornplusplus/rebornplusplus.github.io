@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Nutes
-`Short notes to live by`
+`Words to live by`
 
 
 
