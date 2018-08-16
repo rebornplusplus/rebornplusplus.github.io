@@ -11,4 +11,4 @@ layout: default
 
 `#1` `memset` is generally faster than looping. For infinity consider `0x3f3f3f3f`.
 
-`#0` Never ever forget that you're an idiot.
+`#0` You're an idiot.
