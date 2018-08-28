@@ -26,3 +26,4 @@ Here are some problems that I solved and wrote explanations. :3
 * [LightOJ 1180 - Software Company](./lo-1180-software-company)
 * [LightOJ 1252 - Maintaining Communities](./lo-1252-maintaining-communities)
 * [LightOJ 1147 - Tug of War](./lo-1147-tug-of-war)
+* [LightOJ 1329 - Playing Cards](./lo-1329-playing-cards)
