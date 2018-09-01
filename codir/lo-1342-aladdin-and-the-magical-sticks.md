@@ -3,7 +3,7 @@ layout: default
 ---
 
 # LightOJ 1342 - Aladdin and the Magical Sticks
-_Sept 01 2018_
+_Sept 01 2018 1021_
 
 [Problem Statement](http://lightoj.com/volume_showproblem.php?problem=1342)
 
