@@ -29,3 +29,4 @@ Here are some problems that I solved and wrote explanations. :3
 * [LightOJ 1329 - Playing Cards](./lo-1329-playing-cards)
 * [LightOJ 1299 - Fantasy Cricket](./lo-1299-fantasy-cricket)
 * [LightOJ 1345 - Aladdin and the Happy Garden](./lo-1345-aladdin-and-the-happy-garden)
+* [LightOJ 1342 - Aladdin and the Magical Sticks](./lo-1342-aladdin-and-the-magical-sticks)
