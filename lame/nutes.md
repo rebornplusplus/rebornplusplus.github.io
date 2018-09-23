@@ -7,6 +7,8 @@ layout: default
 
 
 
+`#4` As tempting as it can be, try to avoid `-INF` cost on Min-Cost-Max-Flow.
+
 `#3` Don't get stuck on a single problem for too long. Move on!
 
 `#2` Avoid `set` as much as you can. Too much const factor.
