@@ -2,12 +2,7 @@
 layout: default
 ---
 
-# Hello!
-
-Hi, this is me, rebornplusplus. I am opening this site to post my recently solved problem analysis for me. Hopefully not many people will look into this site.
-
-* * *
 rebornplusplus<br/>
-July 17 2018 2313
+Oct 01 2018 0322
 
-{% include youtubePlayer.html id="EYqSe6DTMHE" %}
+{% include youtubePlayer.html id="fuWTcmjnEGY" %}
