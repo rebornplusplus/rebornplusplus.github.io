@@ -6,12 +6,12 @@ layout: default
   <summary>Um...</summary>
   <br/>
   
-```cpp
+<pre>
 void prnt(string s) {
   cout << s << "\n";
   return ;
 }
-```
+</pre>
 
 </details>
 
