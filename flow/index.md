@@ -72,3 +72,34 @@ Recently, I took on flow problems. For most of them, I was unable to find a comp
     <script src="https://pastebin.com/embed_js/HWiw3gkK">Solution of LightOJ 1350</script>
   </details>
 </details>
+
+<hr/>
+
+<details>
+  <summary>
+    Row Column Intersection<br/>
+    <a href="http://lightoj.com/volume_showproblem.php?problem=1262">Diagonal Sum</a><br/>
+    <a href="https://uva.onlinejudge.org/external/110/p11082.pdf>UVa 11082</a>
+  </summary>
+  <br/>
+  There's a grid. You're given the summation of values in each row and the summation of values in each column. Find out any possible grid.<br/>
+  Simply keep two sets of nodes. One for rows, another for columns. Add src to rows with capacity=row_sum and cols to sink with capacity=col_sum. Between every row and col add edge with capacity=INF. grid(i, j) will be the flow that passes through the edge with endpoints row_i and col_j.
+</details>
+
+<details>
+  <summary>
+    Lexicographically Smallest<br/>
+    <a href="http://lightoj.com/volume_showproblem.php?problem=1330">Binary Matrix</a>
+  </summary>
+  <br/>
+  You're given row sums and col sums of a binary matrix. Find out the lexicographically smallest binary matrix possible.<br/>
+  Firstly, we find out any binary matrix. Then, for each cell having a 1, we try to find an augmenting path neglecting the corresponding edge of that cell. If we can find such a path, it means that we can put a 0 there. So we put a 0 there and block the edge. If, in the first place, there was a 0 at the cell, we block the edge too. Further in code.
+  <br/>
+  
+  <details>
+    <summary>
+      C++ implementation
+    </summary>
+    <script src="https://pastebin.com/embed_js/YEnQHKEQ"></script>
+  </details>
+</details>
