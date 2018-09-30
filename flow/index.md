@@ -6,13 +6,15 @@ layout: default
 _Sept 26 2018 1306_
 
 <div style="text-align: right; font-style: oblique;">
-  Roses are red
-  Violates are blue
-  I wish 'flow' was
-  pronounced as 'floo'.
-  
+  Roses are red<br/>
+  Violates are blue<br/>
+  I wish 'flow' was<br/>
+  pronounced as 'floo'.<br/>
+  <br/>
   Comrade Mo (1993-)
 </div>
+
+<hr/>
 
 Recently, I took on flow problems. For most of them, I was unable to find a complete solution. But I liked some tricks/solutions of some problems. This page is simply about noting those problems and those tricks.
 
