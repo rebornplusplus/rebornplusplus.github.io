@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<head>
+  <title>Faced Flow</title>
+</head>
+
 <div style="text-align: right; font-style: oblique;">
   Roses are red<br/>
   Violates are blue<br/>
