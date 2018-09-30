@@ -5,6 +5,15 @@ layout: default
 # Faced Flow
 _Sept 26 2018 1306_
 
+<i><p align="right">
+  Roses are red<br/>
+  Violates are blue<br/>
+  I wish 'flow' was<br/>
+  pronounced as 'floo'.<br/>
+  <br/>
+  Comrade Mo (1993-)
+</p></i>
+
 Recently, I took on flow problems. For most of them, I was unable to find a complete solution. But I liked some tricks/solutions of some problems. This page is simply about noting those problems and those tricks.
 
 <details>
