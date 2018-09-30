@@ -79,12 +79,14 @@ Recently, I took on flow problems. For most of them, I was unable to find a comp
   <summary>
     Row Column Intersection<br/>
     <a href="http://lightoj.com/volume_showproblem.php?problem=1262">Diagonal Sum</a><br/>
-    <a href="https://uva.onlinejudge.org/external/110/p11082.pdf>UVa 11082</a>
+    <a href="https://uva.onlinejudge.org/external/110/p11082.pdf">UVa 11082</a>
   </summary>
   <br/>
   There's a grid. You're given the summation of values in each row and the summation of values in each column. Find out any possible grid.<br/>
   Simply keep two sets of nodes. One for rows, another for columns. Add src to rows with capacity=row_sum and cols to sink with capacity=col_sum. Between every row and col add edge with capacity=INF. grid(i, j) will be the flow that passes through the edge with endpoints row_i and col_j.
 </details>
+
+<hr/>
 
 <details>
   <summary>
