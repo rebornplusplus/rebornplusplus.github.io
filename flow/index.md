@@ -35,7 +35,7 @@ Recently, I took on flow problems. For most of them, I was unable to find a comp
     find a way to satisfy all the monkeys’ need. Could you help them?
   </blockquote>
 
-  I think the solution is best explained [here](https://abitofcs.blogspot.com/2014/12/uva-11167-monkeys-in-emei-mountain.html).
+  I think the solution is best explained <a href="https://abitofcs.blogspot.com/2014/12/uva-11167-monkeys-in-emei-mountain.html">here</a>.
 
   <blockquote>
     A pretty tough maxflow problem. Oh yes, this is a bipartite matching problem between N monkeys and 50000 time intervals. The simplest way to think about this problem is to have N nodes representing monkeys, 50000 nodes representing time intervals, and two nodes S and T which are source and sink respectively. A monkey has to drink v times, hence we add an edge between S and that monkey with capacity v. This monkey can drink from time interval s to t, so we add an edge to each time interval from s to t by capacity 1 each. Finally, each time interval can only be shared between M monkeys, so for each time interval we add an edge to T with capacity M. The maximum flow from S to T will give us the maximum bipartite matching between the monkeys and the time intervals. If this maximum flow exactly equals to the total times all monkeys have to drink, we have found a valid matching.
