@@ -1,5 +1,5 @@
 ---
-layout: details
+layout: default
 ---
 
 <details>
