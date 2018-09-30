@@ -9,6 +9,7 @@ Recently, I took on flow problems. For most of them, I was unable to find a comp
 
 <details>
   <summary>
+    <br/>
     <a href="https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2108">UVa 11167 - Monkeys in the Emei Mountain</a><br/>
     <a href="http://lightoj.com/volume_showproblem.php?problem=1350">LightOJ 1350 - Aladdin and the Grand Feast</a>
   </summary>
