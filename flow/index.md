@@ -17,6 +17,7 @@ Recently, I took on flow problems. For most of them, I was unable to find a comp
   In the given graph, a number of flow needs to be passed at least through edges. This value of minimum flow varies depending on edges. This is a good note solving this problem: <a href="http://jeffe.cs.illinois.edu/teaching/algorithms/notes/25-maxflowext.pdf">#</a>
 </details>
 
+<hr/>
 
 <details>
   <summary>
