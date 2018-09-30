@@ -40,8 +40,8 @@ I think the solution is best explained [here](https://abitofcs.blogspot.com/2014
 <details>
   <summary>My Code for LightOJ 1350</summary>
   <br/>
-  
-```cpp
+
+<pre>
 
 const int MAX_E=25000;	// 60003;
 const int MAX_V=160;	// 5003;
@@ -226,7 +226,5 @@ int main() {
 
 	return 0;
 }
-
-```
-
+</pre>
 </details>
