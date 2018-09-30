@@ -67,5 +67,8 @@ Recently, I took on flow problems. For most of them, I was unable to find a comp
     The last thing needed is a careful implementation and a strong heart to face several WAs..
   </blockquote>
 
-  <script src="https://pastebin.com/embed_js/HWiw3gkK">Solution of LightOJ 1350</script>
+  <details>
+    <summary>C++ Implementation of LightOJ 1350</summary>
+    <script src="https://pastebin.com/embed_js/HWiw3gkK">Solution of LightOJ 1350</script>
+  </details>
 </details>
