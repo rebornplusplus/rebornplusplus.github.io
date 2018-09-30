@@ -7,7 +7,8 @@ _Sept 26 2018 1306_
 
 Recently, I took on flow problems. For most of them, I was unable to find a complete solution. But I liked some tricks/solutions of some problems. This page is simply about noting those problems and those tricks.
 
-[UVa 11167 - Monkeys in the Emei Mountain](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2108), [LightOJ 1350 - Aladdin and the Grand Feast](http://lightoj.com/volume_showproblem.php?problem=1350)
+[UVa 11167 - Monkeys in the Emei Mountain](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2108) <br/>
+[LightOJ 1350 - Aladdin and the Grand Feast](http://lightoj.com/volume_showproblem.php?problem=1350)
 
 Both problems are quite the same. The UVa Monkeys:
 
@@ -41,6 +42,7 @@ I think the solution is best explained [here](https://abitofcs.blogspot.com/2014
   <br/>
   
 ```cpp
+
 const int MAX_E=25000;	// 60003;
 const int MAX_V=160;	// 5003;
 int ver[MAX_E],cap[MAX_E],nx[MAX_E],last[MAX_V],ds[MAX_V],st[MAX_V],now[MAX_V],edge_count,S,T;
@@ -224,6 +226,7 @@ int main() {
 
 	return 0;
 }
+
 ```
 
 </details>
