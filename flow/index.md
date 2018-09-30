@@ -2,10 +2,6 @@
 layout: default
 ---
 
-<head>
-  <title>Faced Flow</title>
-</head>
-
 <div style="text-align: right; font-style: oblique;">
   Roses are red<br/>
   Violates are blue<br/>
@@ -14,7 +10,6 @@ layout: default
   <br/>
   Comrade Mo (1993-)
 </div>
-
 
 # Faced Flow
 _Sept 26 2018 1306_
