@@ -92,6 +92,7 @@ Recently, I took on flow problems. For most of them, I was unable to find a comp
   <summary>
     Lexicographically Smallest<br/>
     <a href="http://lightoj.com/volume_showproblem.php?problem=1330">Binary Matrix</a>
+    <a href="https://www.codechef.com/problems/AMLEX">Poetic Word</a>
   </summary>
   <br/>
   You're given row sums and col sums of a binary matrix. Find out the lexicographically smallest binary matrix possible.<br/>
@@ -103,5 +104,15 @@ Recently, I took on flow problems. For most of them, I was unable to find a comp
       C++ implementation
     </summary>
     <script src="https://pastebin.com/embed_js/YEnQHKEQ"></script>
+  </details>
+  <br/>
+  
+  In Poetic Word, you're told to generate a string with given frequency of characters. You're also told certain letters can have certain positions in the string. You're asked to generate the lexicographically smallest string possible.<br/>
+  Um, if this was a binary string we could have done this like Binary Matrix. But as there are 26 characters possible, we try each letter for each position and build a graph, then run flow.
+  <details>
+    <summary>
+      C++ implementation of Poetic Word
+    </summary>
+    <script src="https://pastebin.com/embed_js/HzxSeEsd"></script>
   </details>
 </details>
