@@ -91,7 +91,7 @@ Recently, I took on flow problems. For most of them, I was unable to find a comp
 <details>
   <summary>
     Lexicographically Smallest<br/>
-    <a href="http://lightoj.com/volume_showproblem.php?problem=1330">Binary Matrix</a>
+    <a href="http://lightoj.com/volume_showproblem.php?problem=1330">Binary Matrix</a><br/>
     <a href="https://www.codechef.com/problems/AMLEX">Poetic Word</a>
   </summary>
   <br/>
