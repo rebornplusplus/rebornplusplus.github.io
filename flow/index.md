@@ -113,6 +113,7 @@ Recently, I took on flow problems. For most of them, I was unable to find a comp
     <summary>
       C++ implementation of Poetic Word
     </summary>
-    <script src="https://pastebin.com/embed_js/HzxSeEsd"></script>
+    <!-- <script src="https://pastebin.com/embed_js/HzxSeEsd"></script> -->
+    <iframe src="https://pastebin.com/embed_iframe/HzxSeEsd" style="border:none;width:100%; height: 100px"></iframe>
   </details>
 </details>
