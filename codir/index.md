@@ -29,3 +29,4 @@ layout: default
 * [LightOJ 1299 - Fantasy Cricket](./lo-1299-fantasy-cricket)
 * [LightOJ 1345 - Aladdin and the Happy Garden](./lo-1345-aladdin-and-the-happy-garden)
 * [LightOJ 1342 - Aladdin and the Magical Sticks](./lo-1342-aladdin-and-the-magical-sticks)
+* [Tsukuba 2017 - Counting Cycles](./tsukuba-2017-counting-cycles)
