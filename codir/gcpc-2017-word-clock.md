@@ -23,7 +23,7 @@ predecessor states while building the DP table
 > - Time complexity: O(n^2 2^n)
 
 Implementation
-<iframe src="https://pastebin.com/embed_iframe/8nXmuWwg" style="border:none;width:100%;height=480px;"></iframe>
+<iframe src="https://pastebin.com/embed_iframe/8nXmuWwg" style="border:none;width:100%;height:360px;"></iframe>
 
 ***
 
