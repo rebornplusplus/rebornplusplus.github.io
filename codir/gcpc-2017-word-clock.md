@@ -12,7 +12,7 @@ Given a set S of at most 18 words and a rectangular grid, fill the grid with let
 From [Editorial](http://gcpc.nwerc.eu/outlines_2017.pdf)
 > Use dynamic programming: for S' ⊆ S and s ∈ S' let
 > 
-> 	f (S' ,s) = the earliest possible end position (row,column) of a text containing all the words from S' and ending in s.
+> f (S' ,s) = the earliest possible end position (row,column) of a text containing all the words from S' and ending in s.
 > - A solution exists if and only if one of the positions f (S,s) still lies in the grid.
 > - To reconstruct the solution one needs to keep track of the best
 predecessor states while building the DP table
@@ -23,7 +23,7 @@ predecessor states while building the DP table
 > - Time complexity: O(n^2 2^n)
 
 Implementation
-<iframe src="https://pastebin.com/embed_iframe/8nXmuWwg" style="border:none;width:100%;height=360px;"></iframe>
+<iframe src="https://pastebin.com/embed_iframe/8nXmuWwg" style="border:none;width:100%;height=480px;"></iframe>
 
 ***
 
