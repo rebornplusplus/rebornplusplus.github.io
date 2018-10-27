@@ -2,7 +2,9 @@
 layout: default
 ---
 
-CSE 207 : Data Structures and Algorithms II
+## CSE 207
+
+Data Structures and Algorithms II
 - Saidur Rahman
 - Shamsuzzoha Bayzid
 
