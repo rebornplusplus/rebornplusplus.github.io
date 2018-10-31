@@ -4,7 +4,11 @@ layout: default
 
 ## CSE 211
 
+Theory of Computation
+- Muhammad Masroor Ali
+
 ### Week-1
 
-Oct 30 2018
-[Link](asdasdjasdj)
+Slides
+- [Info](./cse211slides00information.pdf)
+- [Intro](./cse211slides01introduction.pdf)
