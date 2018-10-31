@@ -14,6 +14,10 @@ I will try to note things here for this course. Liked it.
 
 ### Week-1
 
-_Oct 27 2018_
+Oct 27 2018
 
 Introductory class - Saidur Rahman - Algorithm definition - Topological Sort (queue based implementation)
+
+Oct 31 2018
+
+Graph algorithms - bfs - dfs - bfs on weighted graph - dijkstra
