@@ -12,3 +12,4 @@ Database Sessional
 
 [__Week-1__](./w1)
 
+[__Week-3__](./w3)
