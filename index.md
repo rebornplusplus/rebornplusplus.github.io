@@ -2,4 +2,6 @@
 layout: default
 ---
 
-{% include youtubePlayer.html id="CBfqi_nrif8" %}
+These days, when I wake up, I don't feel that rush in my bones.
+
+Life is so ordinary.
