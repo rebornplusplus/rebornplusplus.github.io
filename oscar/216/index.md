@@ -16,5 +16,6 @@ Database Sessional
 
 
 __Week-6__
+
 Select the people who are manager of some sorts from the Oracle HR Database.
 SQL: [pastebin](https://paste.ubuntu.com/p/cfVmCRfxhf/)
