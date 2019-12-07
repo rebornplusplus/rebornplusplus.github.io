@@ -6,3 +6,4 @@ layout: default
 
 * [LightOJ Random Problem Extractor](./lo-solve-random)
 * [Nutes](./nutes)
+* [VS Code Settings.json](./vs-code-settings.json)
