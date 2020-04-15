@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{% include head.html %}
+$BIG CHANGE$
+
 # Queries on Tree Diameter
 _Apr 15, 2020_
 
