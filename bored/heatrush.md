@@ -1,1 +1,0 @@
-<embed width="640" height="480" base="https://external.kongregate-games.com/gamez/0017/9179/live/" src="https://external.kongregate-games.com/gamez/0017/9179/live/embeddable_179179.swf" type="application/x-shockwave-flash"/>
