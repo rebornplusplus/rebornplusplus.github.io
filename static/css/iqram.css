@@ -1,3 +1,7 @@
+/*
+CSS file from hukush-pakush.com
+Thanks to Iqram Mahmud!
+*/
 body, input {
 	color: #111;
 	font-family: solaimanLipi
@@ -5,12 +9,12 @@ body, input {
 
 @font-face {
 	font-family: solaimanLipi;
-	src: url(static/fonts/SolaimanLipi.woff)
+	src: url(/static/fonts/SolaimanLipi.woff)
 }
 
 /* @font-face { */
 /* 	font-family: codeface; */
-/* 	src: url(static/fonts/halum.woff) */
+/* 	src: url(/static/fonts/halum.woff) */
 /* } */
 
 #donate {
@@ -61,7 +65,8 @@ pre {
 
 #heading {
 	padding: 100px 0 15px;
-	font-size: 20px
+	font-size: 20px;
+	font-weight: bold;
 }
 
 #bigheading {
