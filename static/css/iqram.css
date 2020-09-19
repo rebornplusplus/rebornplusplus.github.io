@@ -9,7 +9,7 @@ body, input {
 
 @font-face {
 	font-family: solaimanLipi;
-	src: url({{ site.url }}/static/fonts/SolaimanLipi.woff)
+	src: url(../fonts/SolaimanLipi.woff)
 }
 
 /* @font-face { */
